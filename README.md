@@ -1,0 +1,1 @@
+#simple cool landing page
